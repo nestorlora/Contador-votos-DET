@@ -1,4 +1,4 @@
-recuento-votos (CEUMA)
+recuento-votos (DET)
 ===================
 
 Interfaz simple para recuento de votos durante una Asamblea de cara a mostrarlos en una pantalla basado en Bootstrap y JQuery.
